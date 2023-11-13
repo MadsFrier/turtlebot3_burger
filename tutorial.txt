@@ -1,4 +1,5 @@
-cd src
+https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/#gazebo-simulation
+
 colcon build --symlink-install
 export TURTLEBOT3_MODEL=burger
 source install/setup.bash
